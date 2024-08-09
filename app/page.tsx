@@ -1,5 +1,6 @@
-import NotesPicker from '@/components/NotePicker'
-import Notes from '@/components/Notes'
+import NotesPicker from "@/components/NotePicker";
+import Notes from "@/components/Notes";
+// tiptapnotes
 
 export default function Home() {
   return (
@@ -7,5 +8,5 @@ export default function Home() {
       <NotesPicker />
       <Notes />
     </main>
-  )
+  );
 }
